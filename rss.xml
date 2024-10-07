@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Dummy RSS Feed</title>
+    <link>https://www.example.com</link>
+    <description>This is a dummy RSS feed for testing purposes.</description>
+    <language>en-us</language>
+    <pubDate>Sun, 06 Oct 2024 12:00:00 GMT</pubDate>
+
+    <item>
+      <title>First Random Article</title>
+      <link>https://www.randomsite1.com/article/123</link>
+      <description>This is the first random article.</description>
+      <pubDate>Sun, 06 Oct 2024 08:00:00 GMT</pubDate>
+      <guid>https://www.randomsite1.com/article/123</guid>
+    </item>
+
+    <item>
+      <title>Second Random Article</title>
+      <link>https://www.randomsite2.com/post/456</link>
+      <description>This is the second random article.</description>
+      <pubDate>Sat, 05 Oct 2024 10:00:00 GMT</pubDate>
+      <guid>https://www.randomsite2.com/post/456</guid>
+    </item>
+
+    <item>
+      <title>Third Random Article</title>
+      <link>https://www.randomsite3.com/blog/789</link>
+      <description>This is the third random article.</description>
+      <pubDate>Fri, 04 Oct 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.randomsite3.com/blog/789</guid>
+    </item>
+
+    <item>
+      <title>Fourth Random Article</title>
+      <link>https://www.randomsite4.com/news/1011</link>
+      <description>This is the fourth random article.</description>
+      <pubDate>Thu, 03 Oct 2024 18:00:00 GMT</pubDate>
+      <guid>https://www.randomsite4.com/news/1011</guid>
+    </item>
+
+  </channel>
+</rss>
